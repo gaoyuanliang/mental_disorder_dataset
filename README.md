@@ -58,3 +58,7 @@ https://data.world/chhs/5a281abf-1730-43b0-b17b-ac6a35db5760/workspace/file?file
 This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/: Deaths by suicide per 100,000 population. Data have been aggregated from statistical datasets compiled from California death records.
 
 https://data.world/chhs/bba07a91-bf3f-438b-b7c9-92e6ce351f62/workspace/file?filename=suicide-deaths-per-100-000-population-lghc-indicator-1.csv
+
+## A Dataset of Students’ Mental Health and Help-Seeking Behaviors in a Multicultural Environment
+
+https://www.mdpi.com/2306-5729/4/3/124/htm
