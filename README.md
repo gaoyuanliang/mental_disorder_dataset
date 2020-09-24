@@ -14,6 +14,12 @@ Can you predict whether a patient should be treated of his/her mental illness or
 
 https://www.kaggle.com/kairosart/machine-learning-for-mental-health-1
 
+## Suicides in India
+
+Sucides in each state is classified according to various parameters from 2001-12
+
+https://www.kaggle.com/rajanand/suicides-in-india
+
 ## EEG data from basic sensory task in Schizophrenia
 
 Schizophrenia is a chronic mental illness that affects about 1% of people across the globe. One possible explanation for some of the symptoms of schizophrenia is that one or more problems with the corollary discharge process in the nervous system makes it difficult for patients to differentiate between internally and externally generated stimuli. Therefore, studying this process and its relationship to symptoms in the illness might allow us to better understand abnormal brain processes in patients with this diagnosis.
