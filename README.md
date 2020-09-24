@@ -38,5 +38,10 @@ https://data.world/afterschool/teen-stress-mental-health-poll-on-after-school/wo
 
 <img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924231421.png" width="600">
 
+### Assessment of Suicide risk
 
+"At any time in the past 12 months, did you seriously think about trying to kill yourself?"
+If they answered "Yes," they were categorized as having serious thoughts of suicide in the past year For substate region definitions, see the "2012-2014 National Survey on Drug Use and Health Substate Region Definitions" at http://www.samhsa.gov/data/. "
+
+https://data.world/boonitis/assessment-of-suicide-risk/workspace/file?agentid=samhsa&datasetid=serious-thoughts-of-suicide&filename=2012-2014_Substate_SAE_Table_26.xlsx
 
