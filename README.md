@@ -34,7 +34,7 @@ https://data.world/datasets/mental-health
 
 <img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924230917.png" width="200"> <img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924230926.png" width="200"> <img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924230933.png" width="200">
 
-<img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924231421.png" width="400">
+<img src="https://raw.githubusercontent.com/gaoyuanliang/mental_disorder_dataset/master/WeChat%20Screenshot_20200924231421.png" width="600">
 
 
 
