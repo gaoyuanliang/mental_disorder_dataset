@@ -25,3 +25,11 @@ https://www.kaggle.com/rajanand/suicides-in-india
 Schizophrenia is a chronic mental illness that affects about 1% of people across the globe. One possible explanation for some of the symptoms of schizophrenia is that one or more problems with the corollary discharge process in the nervous system makes it difficult for patients to differentiate between internally and externally generated stimuli. Therefore, studying this process and its relationship to symptoms in the illness might allow us to better understand abnormal brain processes in patients with this diagnosis.
 
 https://www.kaggle.com/broach/button-tone-sz
+
+## There are 529 mental health datasets available on data.world.
+
+https://data.world/datasets/mental-health
+
+### Teen Stress & Mental Health Poll on After School
+
+
