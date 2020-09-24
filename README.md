@@ -45,3 +45,10 @@ If they answered "Yes," they were categorized as having serious thoughts of suic
 
 https://data.world/boonitis/assessment-of-suicide-risk/workspace/file?agentid=samhsa&datasetid=serious-thoughts-of-suicide&filename=2012-2014_Substate_SAE_Table_26.xlsx
 
+### Children Emotional Difficulty
+
+### Adult Depression (LGHC Indicator)
+
+This is a source dataset for a Let's Get Healthy California indicator at "https://letsgethealthy.ca.gov/." This table displays the proportion of adults who were ever told they had a depressive disorder in California. It contains data for California only. The data are from the California Behavioral Risk Factor Surveillance Survey (BRFSS). The California BRFSS is an annual cross-sectional health-related telephone survey that collects data about California residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. The BRFSS is conducted by Public Health Survey Research Program of California State University, Sacramento under contract from CDPH. This indicator is based on the question: "“Has a doctor, nurse or other health professional EVER told you that you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?” NOTE: Denominator data and weighting was taken from the California Department of Finance, not U.S. Census. Values may therefore differ from what has been published in the national BRFSS data tables by the Centers for Disease Control and Prevention (CDC) or other federal agencies.
+
+https://data.world/chhs/5a281abf-1730-43b0-b17b-ac6a35db5760/workspace/file?filename=adult-depression-lghc-indicator-2.csv
